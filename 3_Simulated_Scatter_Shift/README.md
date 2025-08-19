@@ -1,0 +1,1 @@
+This folder includes 4 jupyter notebooks for the simulations in the following cosmologies: flat LCDM and flat w0waCDM. Computes the pipeline for a shifted scatter which is over and underestimated by 20%. 
